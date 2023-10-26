@@ -5,7 +5,7 @@ body {
 }
 body::before {
     content: "";
-    background-image: url('bag.png'); 
+    background-image: url('bag.jpg'); 
     opacity: 0.1;
     position: fixed;
     /* background-attachment: fixed; */
